@@ -1,0 +1,17 @@
+#primeiro-titulo {
+    font-family: arial;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+#background h2 {
+    font-family: georgia;
+    font-size: 34px;
+    text-align: right;
+    text-decoration: underline;
+}
+
+#segundo-titulo {
+    font-family: courier;
+    letter-spacing: 8px;
+}

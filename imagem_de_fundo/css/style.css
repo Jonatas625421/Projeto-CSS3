@@ -1,0 +1,14 @@
+
+#background {
+    background-image: url("../img/flores.jpg");
+    background-size: cover;
+    height: 1300px;
+    
+   
+}
+
+#background h2 {
+
+    color:blue;
+    text-align: center;
+}
